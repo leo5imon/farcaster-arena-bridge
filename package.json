@@ -1,0 +1,17 @@
+{
+  "name": "fc-arena",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "fc-scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "are.na": "^0.1.5",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
