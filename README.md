@@ -9,6 +9,7 @@ npm install
 ```
 
 Get your Are.na access token from https://dev.are.na/documentation
+
 Get your Neynar API key from https://neynar.com/
 
 .env example :
